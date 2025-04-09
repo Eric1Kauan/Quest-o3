@@ -34,5 +34,7 @@
 <p>
                 Em resumo, linguagens Client Side são executadas no navegador e focadas na apresentação visual, enquanto linguagens Server Side rodam no servidor e lidam com lógica, dados e segurança. Uma aplicação web completa geralmente combina as duas.
 </p>
+
+<p>Prof, perdão só tive 2 aulas com a sr então fiz oque consegui!</p>
 </body>
 </html>
